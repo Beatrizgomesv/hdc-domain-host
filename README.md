@@ -2,7 +2,7 @@
 # LANDING PAGE HDC DOMAIN HOST
 
 
-Creation of a single page application of web domains. 
+Creating a single page application for a website domain service.
 
 
 ## 👨🏾‍💻 Tech Stack
